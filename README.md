@@ -56,7 +56,7 @@ I'm a Full Stack Web Developer🌐, also adaptable to different tech stacks depe
 
 
 
-<a href="https://github.com/abhi-43" align="left"><img width="450px" height="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-43&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/abhi-43" align="left"><img width="400px" height="450" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-43&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <a href="http://www.github.com/abhi-43"><img src="https://github-readme-stats.vercel.app/api?username=abhi-43&show_icons=true&hide=stars,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhi-43's GitHub stats" /></a>
 
