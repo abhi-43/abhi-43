@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=abhi-43)
+
 ## Hey 👋, I'm Abhishek Kumar!
 
 <p align='center'>
